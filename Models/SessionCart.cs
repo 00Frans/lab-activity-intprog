@@ -1,10 +1,10 @@
-﻿using Rubio_SportsStore.Infrastructure;
-using Rubio_SportsStore.Models;
+﻿using Fat_SportsStore.Infrastructure;
+using Fat_SportsStore.Models;
 using System.Net.NetworkInformation;
 using System.Text.Json.Serialization;
 
 
-namespace Rubio_SportsStore.Models
+namespace Fat_SportsStore.Models
 {
 	public class SessionCart : Cart
 	{

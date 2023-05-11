@@ -1,6 +1,6 @@
-﻿using Rubio_SportsStore.Models;
+﻿using Fat_SportsStore.Models;
 
-namespace Rubio_SportsStore.Models
+namespace Fat_SportsStore.Models
 {
     public interface IOrderRepository
     {

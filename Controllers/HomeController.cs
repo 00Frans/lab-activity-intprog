@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Rubio_SportsStore.Models;
-using Rubio_SportsStore.Models.ViewModels;
+using Fat_SportsStore.Models;
+using Fat_SportsStore.Models.ViewModels;
 
-namespace Rubio_SportsStore.Controllers
+namespace Fat_SportsStore.Controllers
 {
 	public class HomeController : Controller{
 		private IStoreRepository repository;

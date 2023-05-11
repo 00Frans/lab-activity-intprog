@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Rubio_SportsStore.Models;
-namespace Rubio_SportsStore.Components
+using Fat_SportsStore.Models;
+namespace Fat_SportsStore.Components
 {
     public class CartSummaryViewComponent : ViewComponent
     {

@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Rubio_SportsStore.Models;
+using Fat_SportsStore.Models;
 
-namespace Rubio_SportsStore.Controllers
+namespace Fat_SportsStore.Controllers
 {
     public class OrderController : Controller
     {

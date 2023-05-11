@@ -1,4 +1,4 @@
-﻿namespace Rubio_SportsStore.Models
+﻿namespace Fat_SportsStore.Models
 {
 	public interface IStoreRepository
 	{

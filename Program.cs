@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Rubio_SportsStore.Models;
+using Fat_SportsStore.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 

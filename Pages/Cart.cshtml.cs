@@ -1,9 +1,9 @@
-using Rubio_SportsStore.Models;
+using Fat_SportsStore.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Rubio_SportsStore.Infrastructure;
+using Fat_SportsStore.Infrastructure;
 
-namespace Rubio_SportsStore.Pages
+namespace Fat_SportsStore.Pages
 {
 	public class CartModel : PageModel
 	{

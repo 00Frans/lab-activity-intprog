@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace Rubio_SportsStore.Models
+namespace Fat_SportsStore.Models
 {
 	public class Product
 	{

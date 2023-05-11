@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
-using Rubio_SportsStore.Models;
+using Fat_SportsStore.Models;
 
-namespace Rubio_SportsStore.Models
+namespace Fat_SportsStore.Models
 {
     public class Order
     {
